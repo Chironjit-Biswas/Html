@@ -33,11 +33,11 @@
 
 
     <h2>Gender</h2>
-    <input type="radio" id="male" name="same" value="male">
+    <input type="radio" id="male" name="gender" value="male">
     <label for="male">Male</label>
-    <input type="radio" id="female" name="same" value="female">
+    <input type="radio" id="female" name="gender" value="female">
     <label for="female">Female</label>
-    <input type="radio" id="other" name="same" value="other">
+    <input type="radio" id="other" name="gender" value="other">
     <label for="other">Other</label>
 
 
